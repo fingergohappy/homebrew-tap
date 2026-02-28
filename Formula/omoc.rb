@@ -1,8 +1,8 @@
 class Omoc < Formula
   desc "TUI tool for configuring Oh My OpenCode agent and category model assignments"
   homepage "https://github.com/fingergohappy/omoc"
-  url "https://github.com/fingergohappy/omoc/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "21b7c8cf2a47baeaa7a77ee423ee968727cd1785e3f518e479e6a69f32229c4b"
+  url "https://github.com/fingergohappy/omoc/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "1bc986f4ea4a182f3eb071e0a45424d3e099912edfc90c06953d5cf55fcdd383"
   license "MIT"
 
   depends_on "go" => :build
