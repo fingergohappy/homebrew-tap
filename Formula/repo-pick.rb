@@ -5,7 +5,6 @@ class RepoPick < Formula
       using:    :git,
       tag:      "v0.1.0",
       revision: "7fe353cc8958bb0ea8e52140d196bae87846ef90"
-  version "0.1.0"
 
   depends_on "go" => :build
 
